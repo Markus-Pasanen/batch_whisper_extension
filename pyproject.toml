@@ -28,7 +28,7 @@ Documentation = "https://github.com/Markus-Pasanen/batch_whisper_extension/wiki"
 "Bug Tracker" = "https://github.com/Markus-Pasanen/batch_whisper_extension/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "jayzqa"
 DisplayName = "batch_whisper_extension"
 Icon = ""
 includes = [] 
