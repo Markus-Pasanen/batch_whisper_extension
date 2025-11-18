@@ -1,7 +1,7 @@
 [project]
 name = "batch_whisper_extension"
 description = "A lightweight ComfyUI extension node that runs OpenAI Whisper to transcribe up to 3 audio inputs, merges and sorts timestamped segments, and outputs a single timestamped transcript string with speaker labels."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
