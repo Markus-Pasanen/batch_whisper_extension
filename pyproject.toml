@@ -29,8 +29,8 @@ Documentation = "https://github.com/Markus-Pasanen/batch_whisper_extension/wiki"
 
 [tool.comfy]
 PublisherId = "jayzqa"
-DisplayName = "batch_whisper_extension"
-Icon = ""
+DisplayName = "Batch whisper extension"
+Icon = "https://github.com/Markus-Pasanen/batch_whisper_extension/blob/main/icon.png"
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
 
